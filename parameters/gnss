@@ -1,0 +1,26 @@
+uavcan.node_id 75
+stats.flight_time_sec 0
+gnss.enable 1
+gnss.type 0
+gnss.cov_size 6
+gnss.pub_period_ms 0
+gnss.config_delay_ms 250
+gnss.config_request 0
+gnss.stats_unknown_rx 20400
+gnss.stats_navpvt_rx 100
+gnss.stats_navstatus_rx 101
+gnss.stats_navcov_rx 101
+gnss.status 0
+gnss.baudrate 921600
+crct.enable_5v_check 1
+crct.enable_vin_check 0
+mag.enable 1
+mag.type 0
+mag.pub_frequency 75
+mag.status 0
+baro.enable 1
+baro.pub_frequency 10
+baro.status 0
+system.log_level 3
+system.can_bus_check_level 0
+uavcan.node.name ArrayValue(type=saturated uint8[<=128], items=[255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 7, 248, 0, 0, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 26, 25, 1])
